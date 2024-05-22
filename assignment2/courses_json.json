@@ -1,0 +1,39 @@
+[
+    {
+      "Id": 1,
+      "Name": "Introduction to Computer Science",
+      "Content": "This course covers the basics of computer science.",
+      "DepartmentId": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Fundamentals of Engineering",
+      "Content": "This course introduces fundamental engineering concepts.",
+      "DepartmentId": 2
+    },
+    {
+      "Id": 3,
+      "Name": "Basic Human Anatomy",
+      "Content": "This course provides an overview of human anatomy.",
+      "DepartmentId": 3
+    },
+    {
+      "Id": 4,
+      "Name": "Pharmaceutical Chemistry",
+      "Content": "This course explores the chemistry of pharmaceuticals.",
+      "DepartmentId": 4
+    },
+    {
+      "Id": 5,
+      "Name": "Introduction to Business",
+      "Content": "This course introduces basic business principles.",
+      "DepartmentId": 5
+    },
+    {
+      "Id": 6,
+      "Name": "Egyptian Law 101",
+      "Content": "This course covers the basics of Egyptian law.",
+      "DepartmentId": 6
+    }
+  ]
+  

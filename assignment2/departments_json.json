@@ -1,0 +1,27 @@
+[
+    {
+      "Id": 1,
+      "Name": "Computer Science"
+    },
+    {
+      "Id": 2,
+      "Name": "Engineering"
+    },
+    {
+      "Id": 3,
+      "Name": "Medicine"
+    },
+    {
+      "Id": 4,
+      "Name": "Pharmacy"
+    },
+    {
+      "Id": 5,
+      "Name": "Business"
+    },
+    {
+      "Id": 6,
+      "Name": "Law"
+    }
+  ]
+  
